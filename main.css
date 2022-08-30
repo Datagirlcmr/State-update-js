@@ -24,6 +24,7 @@ h2 {
 
 .left {
   background-image: url("https://assets.codepen.io/6060109/fyre-left-img.png");
+  background-size: cover;
 }
 
 .right {
@@ -47,6 +48,7 @@ h2 {
   align-items: center;
   justify-content: center;
   z-index: 99;
+  margin-top: 100px;
   /* drop-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
 }
 .panel-logo-2 {
